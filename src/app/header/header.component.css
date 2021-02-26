@@ -1,7 +1,14 @@
-.navbar{
+/* .navbar .navbar-expand-lg .navbar-light .bg-light{
     background-color: #9a031eff;
-    
+} */
+nav{
+    background-color: #9a031eff;
 }
-.navbar-brand{
-    color: #f7fff7ff;;
+
+.navbar-brand {
+    color: #f7fff7ff;
+}  
+
+.nav-link{
+    color: #f7fff7ff;
 }
